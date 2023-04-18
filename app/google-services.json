@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "365932242996",
+    "project_id": "nibblevote",
+    "storage_bucket": "nibblevote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365932242996:android:daacf5574301ab5ddbc261",
+        "android_client_info": {
+          "package_name": "com.example.nibblevote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365932242996-6erk6n3dsgde9e4alefhmkup4qpstj6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nibblevote",
+            "certificate_hash": "bccbcc373ed12945c647ad074edf05a1b408958e"
+          }
+        },
+        {
+          "client_id": "365932242996-pkh6atrbeabnr54e8umi38ur8gv8jgtq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtylujW1nl4RwLAn-Ppr3tKgH5Ecvt6w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365932242996-pkh6atrbeabnr54e8umi38ur8gv8jgtq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
